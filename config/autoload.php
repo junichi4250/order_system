@@ -1,5 +1,5 @@
 <?php
-
+//fileの読み込み
 spl_autoload_register(function($class) {
   $prefix = 'MyApp\\';
   if (strpos($class, $prefix) === 0) {
