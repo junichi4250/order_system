@@ -13,3 +13,4 @@ spl_autoload_register(function($class) {
 
 
  ?>
+//git練習
